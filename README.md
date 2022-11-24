@@ -1,4 +1,4 @@
-# Raspi3DPrinter
+# Raspi3DPrinter (work in progress)
 
 ## Setup
 1. Installare Raspbian Lite 
